@@ -1,4 +1,4 @@
-<p align="left">Most of the stuff on my profile are private projects I did for specific use cases in my life/gaming. Since they are for personal use they usually don't come in an executable or any type of fancy interface. Many of those Projects were developed without VCS and much later pushed here<br>I enjoy working with and analyzing data and am currently really interested in Data Science / Machine Learning. Nowadays I mostly use Python, but I did also do some OOP in the past. <br> Some things that I have used before:</p>
+<p align="left">Most of the stuff on my profile are private projects I did for specific use cases in my life/gaming. Since they are for personal use they usually don't come in an executable or any type of fancy interface. Many of those Projects were developed without VCS and got pushed to github much later.<br>I enjoy working with and analyzing data and am currently really interested in Data Science / Machine Learning. Nowadays I mostly use Python, but I did also do some OOP in the past. <br> Some things that I have used before:</p>
 
 ###
 
