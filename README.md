@@ -1,7 +1,15 @@
-<p align="left">Most of the stuff on my profile are private projects I did for specific use cases in my life/gaming. Since they are for personal use they usually don't come in an executable or any type of fancy interface. Many of those Projects were developed without VCS and got pushed to github much later.<br>I enjoy working with and analyzing data and am currently really interested in Data Science / Machine Learning. Nowadays I mostly use Python, but I did also do some OOP in the past. <br> Some things that I have used before:</p>
+# Hi, I'm Ben 👋
 
-###
+I'm a final-year Business Informatics student with a strong interest in data analytics, machine learning, and creative coding projects — currently a tool to analyze typing patters with the goal to predict what user wrote a text based on how it was written.
 
+- 🎓 Studying Wirtschaftsinformatik (Business Informatics) with a focus on Business Intelligence
+- 🤖 Currently working on ML and personal tooling projects
+- 🎯 Looking for an internship (with a Bachelor thesis) in data science / ML or BI
+
+---
+
+## 🔧 Tools & Technologies
+Some Tools I have used before:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -47,13 +55,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
-
-###
-
-<p align="left">And what I used them on/with:</p>
-
-###
-
+And what I used them with:
 <div align="left">
   <img src="https://cdn.simpleicons.org/alpinelinux/0D597F" height="40" alt="alpinelinux logo"  />
   <img width="12" />
@@ -82,36 +84,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grimjoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+## 📂 Highlight Projects
 
-###
+- 🎮 **[GDragCalculator](https://github.com/Grimjoff/GDragCalculator)**  
+  (Java) Tool that calculates the value that I can get out of an Item in an online game auction house
 
-<div align="left">
-</div>
+- 🧠 **[Keylogger & Behavior Logger](https://github.com/Grimjoff/keylogger-project)**  
+  (C, Python, Jupyter) Low-level keylogging tool for research and behavior analysis (educational)
 
-###
+- ⚒️ **[Data Mining Class](https://github.com/Grimjoff/dataMining)**   
+  (Jupyter) Every Exercise I did within my Data Mining class, ranging from Data Cleansing & analysis to training different ML models and visualization
+  
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/qU7zC-0brAYAAAAd/hamster-meme.gif"  />
-</div>
+- 🛒 **[Discord-Twitch-Bridge](https://github.com/Grimjoff/Discord-Twitch-Bridge)**  
+  (JS) A lightweight JavaScript bot that forwards Twitch messages to a Discord channel via webhooks in real time
 
-###
+---
 
-<p align="left">Feel Free to contact me on discord!</p>
+## 📈 Stats
 
-###
-
-<div align="left">
-  <a href=" https://discordapp.com/users/412682280847409153" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://grim-site.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-</div>
-
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grimjoff&layout=compact&theme=tokyonight)
