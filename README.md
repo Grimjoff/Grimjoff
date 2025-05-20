@@ -1,4 +1,4 @@
-<p align="left">Business Informatics Student @hsh<br><br>Most of the stuff on my profile are private projects I did for specific use cases in my life/gaming<br>I enjoy just working with data and am currently really interested in Data Science / Machine Learning. Nowadays I mostly use Python, but I did also do some OOP in the past. <br> Some things that I have used before:</p>
+<p align="left">Most of the stuff on my profile are private projects I did for specific use cases in my life/gaming<br>I enjoy just working with data and am currently really interested in Data Science / Machine Learning. Nowadays I mostly use Python, but I did also do some OOP in the past. <br> Some things that I have used before:</p>
 
 ###
 
