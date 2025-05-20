@@ -90,8 +90,8 @@ And what I used them with:
 - 🎮 **[GDragCalculator](https://github.com/Grimjoff/GDragCalculator)**  
   (Java) Tool that calculates the value that I can get out of an Item in an online game auction house
 
-- 🧠 **[Keylogger & Behavior Logger](https://github.com/Grimjoff/keylogger-project)**  
-  (C, Python, Jupyter) Low-level keylogging tool for research and behavior analysis (educational)
+- 🧠 **[Typing Pattern Analysis](https://github.com/Grimjoff/SaveInput)**  
+  (C, Python, Jupyter) Low-level keylogging tool for research and behavior analysis on a users Typing patterns (educational)
 
 - ⚒️ **[Data Mining Class](https://github.com/Grimjoff/dataMining)**   
   (Jupyter) Every Exercise I did within my Data Mining class, ranging from Data Cleansing & analysis to training different ML models and visualization
