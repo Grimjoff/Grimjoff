@@ -1,6 +1,7 @@
 # Hi, I'm Ben 👋
 
-I'm a final-year Business Informatics student with a strong interest in data analytics, machine learning, and creative coding projects — currently a tool to analyze typing patters with the goal to predict what user wrote a text based on how it was written.
+I'm a final-year Business Informatics student with a strong interest in data analytics, machine learning, and creative coding projects.
+Current Project: A tool that analyzes typing patterns with the goal to predict what user wrote a text based on how it was written.
 
 - 🎓 Studying Wirtschaftsinformatik (Business Informatics) with a focus on Business Intelligence
 - 🤖 Currently working on ML and personal tooling projects
