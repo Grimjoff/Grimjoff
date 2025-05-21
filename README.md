@@ -99,7 +99,7 @@ And what I used them with:
   
 
 - 🛒 **[Discord-Twitch-Bridge](https://github.com/Grimjoff/Discord-Twitch-Bridge)**  
-  (JS) A lightweight JavaScript bot that forwards Twitch messages to a Discord channel via webhooks in real time
+  (JS) A lightweight JavaScript bot that forwards messages between a Twitch Stream and a Discord channel via webhooks in real time
 
 ---
 
